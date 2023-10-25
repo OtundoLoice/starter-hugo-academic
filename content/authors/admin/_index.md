@@ -120,5 +120,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Loice Otundo is a highly motivated professional with a Bachelor's degree in Information Systems and Technology from the United States International University. She combines her academic background with her natural talent for design and marketing to excel in digital marketing and graphic design.
+
+Her curiosity and enthusiasm drive her exploration of new marketing trends and technological advancements. She excels at creating visually appealing designs that convey powerful messages.
+
+Loice's professional achievements include successful campaigns and designs for numerous clients, establishing her as a thought leader in the industry.
+
+She is dedicated to continuous professional growth, actively seeking emerging trends, and is committed to pushing boundaries. Her journey exemplifies the impact of passion and dedication in achieving excellence in the dynamic fields of digital marketing and graphic design.
 {style="text-align: justify;"}
