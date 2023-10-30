@@ -40,6 +40,7 @@ skills:
         icon_pack: fas
 title: Otundo Loice
 role: Freelance Digital Marketer | Graphic Designer | Web Designer
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
