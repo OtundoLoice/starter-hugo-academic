@@ -57,6 +57,7 @@ social:
     display:
       header: false
   - icon: graduation-cap
+>>>>>>> a1ef2d97a10ca668a80a6545d9a5ae4fed13651a
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
