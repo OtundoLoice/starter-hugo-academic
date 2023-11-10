@@ -41,12 +41,13 @@ skills:
 title: Otundo Loice
 role: Freelance Digital Marketer | Graphic Designer | Web Designer
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and
+#   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Creative Design
+  - Digital Marketing
+  - Cyber Security
+  - Mentorship
 social:
   - icon: envelope
     icon_pack: fas
