@@ -62,15 +62,15 @@ social:
     link: uploads/resume.pdf
 education:
   courses:
-    - course: BSc. Information Systems and Technology
-      institution: United States International University - Africa
-      year: 2020
+    - course: The Fundamentals of Digital Marketing
+      institution: Google Digital Garage
+      year: 2022
     - course: Certified Network Security Specialist
       institution: International Cybersecurity Institute
       year: 2022
-    - course: The Fundamentals of Digital Marketing
-      institution: Google Digital Garage
-      year: 2021
+    - course: BSc. Information Systems and Technology
+      institution: United States International University - Africa
+      year: 2020
 superuser: true
 status:
   icon: ☕️
