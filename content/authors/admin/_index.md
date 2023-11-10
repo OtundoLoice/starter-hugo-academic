@@ -41,26 +41,16 @@ skills:
 title: Otundo Loice
 role: Freelance Digital Marketer | Graphic Designer | Web Designer
 avatar_filename: avatar.png
-# bio: My research interests include distributed robotics, mobile computing and
-#   programmable matter.
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-  - Creative Design
-  - Digital Marketing
-  - Cyber Security
-  - Mentorship
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lotundo02@gmail.com
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: false
-  # - icon: graduation-cap
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/OtundoLoice
@@ -75,6 +65,12 @@ education:
     - course: BSc. Information Systems and Technology
       institution: United States International University - Africa
       year: 2020
+    - course: Certified Network Security Specialist
+      institution: International Cybersecurity Institute
+      year: 2022
+    - course: The Fundamentals of Digital Marketing
+      institution: Google Digital Garage
+      year: 2021
 superuser: true
 status:
   icon: ☕️
