@@ -46,8 +46,8 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Digital Marketing
   - Creative Design
-  - WebDesign
-  - CyberSecurity
+  - Web Design
+  - Cyber Security
 social:
   - icon: envelope
     icon_pack: fas
